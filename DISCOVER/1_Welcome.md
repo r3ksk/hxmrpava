@@ -1,8 +1,8 @@
 Welcome to the SAP Discovery Center mission "**Automate HXM Recruiting Prescreening Questions and Offer Letter Distribution**" 
   
   
-Target Group  
-**This mission is designed for 
+**Target Group**  
+This mission is designed for
 <ul>
 <li> HR Administrators </li> 
 <li>HR Operators team </li> 
