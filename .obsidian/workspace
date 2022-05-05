@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a3436055a5d5f6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccacc341e05c185",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DISCOVER/1_Welcome.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f20dcdec35ff2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd95b459ee6b63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f3f7b067808148",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b8b4d52c27f1e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16ce5842bf9aa71f",
+    "type": "split",
+    "children": [
+      {
+        "id": "229143eee8c96267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dd861b9141f481e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DISCOVER/1_Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ccacc341e05c185",
+  "lastOpenFiles": [
+    "DISCOVER/1_Welcome.md"
+  ]
+}
