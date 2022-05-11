@@ -11,7 +11,8 @@ SAP BTP offers two different commercial models for enterprise accounts.
 1. Consumption-based commercial model
 2. Subscription-based commercial model
 
-![[SAP_BTP_Commercial_Model.png]]
+![SAP BTP Commercials](../images/SAP_BTP_Commercial_Model.png)
+
 
 You can learn more on the commercial models from this document  [page](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/263d40009a5a4237a62e8f5c05ee641e.html)
 
