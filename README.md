@@ -1,7 +1,7 @@
 ## Table Of Contents
 
 <!-- disco-toc-start -->
-- Discover Phase
+- Discover Phase 
   - [Welcome and Target Group for this mission](Discover Phase/01-Welcome)
   - [BTP Commerical Models](Discover Phase/02-BTP_Commericals)
   - [SAP Process Automation Basics](Discover Phase/03-SPA_Basics)
