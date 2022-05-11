@@ -3,7 +3,8 @@
 <!-- disco-toc-start -->
 - Discover Phase
   - [Welcome and Target Group for this mission](Discover Phase/01-Welcome)
-  - [SAP Process Automation Basics](Discover Phase/02-SPA_Basics)
+  - [BTP Commerical Models](Discover Phase/02-BTP_Commericals)
+  - [SAP Process Automation Basics](Discover Phase/03-SPA_Basics)
 - Configuration Phase
   - [Read this first](Configuration/01_Read_first)
   - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_PreScreen_Questions)

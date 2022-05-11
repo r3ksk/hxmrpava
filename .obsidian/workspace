@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Discover Phase/01-Welcome/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Discover Phase/01-Welcome/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,10 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
+    "Discover Phase/01-Welcome/README.md",
+    "Discover Phase/02-BTP_Commericals/README.md",
     "README.md",
     "README 1.md",
-    "Discover Phase/01-Welcome/README.md",
-    "Discover Phase/02-SPA_BASICS/README.md"
+    "Discover Phase/03-SPA_BASICS/README.md"
   ]
 }
