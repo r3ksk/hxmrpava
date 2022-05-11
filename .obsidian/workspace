@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discover Phase/02-BTP_Commericals/README.md",
+            "file": "Discover Phase/03-SPA_BASICS/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discover Phase/02-BTP_Commericals/README.md",
+                "file": "Discover Phase/03-SPA_BASICS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,12 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
-    "Discover Phase/02-BTP_Commericals/README.md",
-    "README.md",
     "Discover Phase/03-SPA_BASICS/README.md",
+    "README.md",
+    "Discover Phase/01-Welcome/README.md",
+    "Discover Phase/02-BTP_Commericals/README.md",
     "Discover Phase/99_Images/SAP_BTP_Commercial_Model.png",
     "Pasted image 20220511233346.png",
-    "Discover Phase/01-Welcome/README.md",
     "README 1.md"
   ]
 }

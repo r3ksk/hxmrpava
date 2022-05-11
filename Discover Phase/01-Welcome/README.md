@@ -25,3 +25,10 @@ Please review the next tasks in this Discover Phase and learn more on
 3. SAP Process Automation Technical Pre-requisites
 
 Hope you have fun automating these scenarios using SAP Process Automation. Please share your feedback.
+
+
+### Abreviation used in this mission
+**BTP** - Business Technology Platform
+**SPA** - SAP Process Automation
+**PAYG** - Pay-As-You Go Commercial model of BTP
+**CPEA** - Cloud Platform Enterprise Agreement 

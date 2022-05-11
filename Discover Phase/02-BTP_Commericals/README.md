@@ -20,9 +20,9 @@ You can learn more on the commercial models from this document  [page](https://h
 #### New BTP Prospective Customers - Evaluate Pay-As-You Go (PAYG) 
 If you are new to SAP BTP, get yourself familiar with SAP Pay-As-You Go consumption based commercial model.  Kindly refer to the below resurces to learn more
 1. Explore various links in this SAP Documentation [page](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/7047eb4a15a84ac7be3c8612179e6d1f.html)
-2.
-3. Explore Pay-As-You Go account purchase through [SAP Store](https://store.sap.com/dcp/en/news-blogs/announcements/get-started-commitment-free-with-pay-as-you-go-for-sap-btp-now-available-on-sap-store)
+2. Explore Pay-As-You Go account purchase through [SAP Store](https://store.sap.com/dcp/en/news-blogs/announcements/get-started-commitment-free-with-pay-as-you-go-for-sap-btp-now-available-on-sap-store)
 
 #### New Prospective SAP Process Automation Customers 
-So you have an existing SAP BTP License, but are evaluating SAP Process Automation. It comes in different commercial model. You can go fo a subscription or a consumption based licensing depending on your organization approach here.
-Explore SAP Process Automation [SAP Discovery Center - Process Automation](https://discovery-center.cloud.sap/serviceCatalog/process-automation?region=all&tab=service_plan)
+So you have an existing SAP BTP License, but you want to evaluate SAP Process Automation to try this use case. SAP Process Automation comes in different commercial model. You can go for a subscription or a consumption based licensing depending on your organization approach to SAP BTP Commercials.
+
+Explore SAP Process Automation Pricing from [SAP Discovery Center - Process Automation](https://discovery-center.cloud.sap/serviceCatalog/process-automation?region=all&tab=service_plan)
