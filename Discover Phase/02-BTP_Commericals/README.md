@@ -12,7 +12,7 @@ SAP BTP offers two different commercial models for enterprise accounts.
 2. Subscription-based commercial model
 
 ![SAP BTP Commercials!](../99_Images/SAP_BTP_Commercial_Model.png)
-
+*Image excrept from our SAP BTP Help documentation*
 
 
 You can learn more on the commercial models from this document  [page](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/263d40009a5a4237a62e8f5c05ee641e.html)
@@ -26,3 +26,6 @@ If you are new to SAP BTP, get yourself familiar with SAP Pay-As-You Go consumpt
 So you have an existing SAP BTP License, but you want to evaluate SAP Process Automation to try this use case. SAP Process Automation comes in different commercial model. You can go for a subscription or a consumption based licensing depending on your organization approach to SAP BTP Commercials.
 
 Explore SAP Process Automation Pricing from [SAP Discovery Center - Process Automation](https://discovery-center.cloud.sap/serviceCatalog/process-automation?region=all&tab=service_plan)
+#### SAP Launchpad pre-requisite ####
+
+

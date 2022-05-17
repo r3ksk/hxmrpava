@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discover Phase/03-SPA_BASICS/README.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 322
   },
   "right": {
     "id": "16ce5842bf9aa71f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discover Phase/03-SPA_BASICS/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
-    "Discover Phase/03-SPA_BASICS/README.md",
     "README.md",
+    "Automation Phase/03_Download_Execute_Offer_Letter_Automations/README.md",
+    "Automation Phase/02_Download_Execute_PreScreenAutomations/README.md",
+    "Configuration Phase/05_SAP_SPA_Technical_Pre_Req/README.md",
+    "Configuration Phase/04_SAP_BTP_SPA_Service_Setup/README.md",
     "Discover Phase/01-Welcome/README.md",
-    "Discover Phase/02-BTP_Commericals/README.md",
-    "Discover Phase/99_Images/SAP_BTP_Commercial_Model.png",
-    "Pasted image 20220511233346.png",
-    "README 1.md"
+    "Discover Phase/05_SPA_vs_SAP_IntelligentRPA/README.md",
+    "Discover Phase/04_SPA_SAPLaunchPad/README.md",
+    "Discover Phase/03-SPA_BASICS/README.md",
+    "Discover Phase/02-BTP_Commericals/README.md"
   ]
 }
