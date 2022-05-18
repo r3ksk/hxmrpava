@@ -4,7 +4,7 @@ We will be searching for SuccessFactors Pre-Screen questions Automation.
 
 #### Temporary workaround:
 
-As the store submission process is in progress, we can take the project from [this location](99_Automations/SF_Offer_Letter.zip)
+As the store submission process is in progress, we can take the project from [this location](../99_Automations/SF_Offer_Letter.zip)
 You can follow the instructions given here to import this project into SAP Process Automation Lobby.
 
 * *[Import a Project | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/527c579a1cba4f12b45326c8e890d102/ca98da78eb1f4d329d82b66ef8baac98.html?locale=en-US&state=DRAFT&q=virtual%20machine) 
