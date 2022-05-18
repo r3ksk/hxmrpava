@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "SAPIntelligentRPA/02_SAPIntelligentRPA_Setup/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SAPIntelligentRPA/02_SAPIntelligentRPA_Setup/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
+    "SAPIntelligentRPA/02_SAPIntelligentRPA_Setup/README.md",
     "README.md",
     "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
     "SAPIntelligentRPA/04_Download_Execute_Offer_Letter_Automations/README.md",
@@ -97,7 +98,6 @@
     "Automation/02_Download_Execute_PreScreenAutomations/README.md",
     "Discover/02-BTP_Commericals/README.md",
     "Automation/01_Read_this_first/README.md",
-    "Configuration/03_SF_Configurations_PreScreen_Questions/README.md",
-    "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md"
+    "Configuration/03_SF_Configurations_PreScreen_Questions/README.md"
   ]
 }
