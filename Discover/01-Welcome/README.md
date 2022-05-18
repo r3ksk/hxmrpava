@@ -32,8 +32,8 @@ Hope you have fun automating these scenarios using SAP Process Automation. Pleas
 
 
 ### Abreviation used in this mission
-**BTP** - Business Technology Platform
-**SPA** - SAP Process Automation
-**PAYG** - Pay-As-You Go Commercial model of BTP
-**CPEA** - Cloud Platform Enterprise Agreement 
-**LC/NC** - Low Code (LC) / No Code (NC) toolset
+* ***BTP** - Business Technology Platform
+* ***SPA** - SAP Process Automation
+* ***PAYG** - Pay-As-You Go Commercial model of BTP
+* ***CPEA** - Cloud Platform Enterprise Agreement 
+* ***LC/NC** - Low Code (LC) / No Code (NC) toolset
