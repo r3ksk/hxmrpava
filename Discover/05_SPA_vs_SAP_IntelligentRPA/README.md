@@ -1,4 +1,4 @@
-SAP Process automation is our brand new, flagship citizen process automation tool. SAP Intelligent RPA is previous version of LC/NC tool offering that help citizen developers to design and develop automation. 
+SAP Process automation is our brand new, flagship citizen process automation tool. SAP Intelligent RPA is the previous version of LC/NC tool offering that help citizen developers to design and develop automation. 
 
 This SAP Discovery Center Mission is based on configuring and executing automations using SAP Process Automation tool. 
 

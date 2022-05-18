@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Resources/01_Read_this_first/README.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 368
   },
   "right": {
     "id": "16ce5842bf9aa71f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Resources/01_Read_this_first/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
-    "README.md",
-    "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
-    "Discover/01-Welcome/README.md",
-    "Automation/01_Read_this_first/README.md",
-    "Discover/02-BTP_Commericals/README.md",
-    "Automation/03_Download_Execute_Offer_Letter_Automations/README.md",
+    "Resources/01_Read_this_first/README.md",
+    "Discover/03-SPA_BASICS/README.md",
+    "SAPIntelligentRPA/02_Download_Execute_PreScreenAutomations/README.md",
     "Automation/02_Download_Execute_PreScreenAutomations/README.md",
-    "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
-    "Discover/05_SPA_vs_SAP_IntelligentRPA/README.md",
-    "Discover/04_SPA_SAPLaunchPad/README.md"
+    "SAPIntelligentRPA/03_Download_Execute_Offer_Letter_Automations/README.md",
+    "Automation/03_Download_Execute_Offer_Letter_Automations/README.md",
+    "SAPIntelligentRPA/01_Read_this_first/README.md",
+    "Automation/01_Read_this_first/README.md",
+    "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
+    "README.md"
   ]
 }
