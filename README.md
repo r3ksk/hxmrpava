@@ -12,7 +12,7 @@
   - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_Configurations_Offer_Letter_Automation)
   - [SuccessFactors Configuration - Offer Letter Automation](Configuration/03_SF_Configurations_PreScreen_Questions)
   - [SAP BTP Configuration - Setup SAP Process Automation](Configuration/04_SAP_BTP_SPA_Service_Setup)
-  - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/005_SAP_SPA_Technical_Pre_Req)
+  - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/05_SAP_SPA_Technical_Pre_Req)
 - Automation Phase
   - [Read this first](Automation/01_Read_this_first)
   - [Download and Execute PreScreen Questions Automations](Automation/02_Download_Execute_PreScreenAutomations)
@@ -22,8 +22,8 @@
   - [SAP Process Automation Learning Resources](Resources/02_learning)
 - SAP Intelligent RPA Phase
   - [Read this first](SAPIntelligentRPA/01_Read_this_first)
-  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02_rpa_setup)
-  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03_download_prescreen_questions)
-  - [Download and Execute Offer Letter](SAPIntelligentRPA/04_download_offer_letter)
+  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02_SAPIntelligentRPA_Setup)
+  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03_Download_Execute_PreScreenAutomations)
+  - [Download and Execute Offer Letter](SAPIntelligentRPA/04_Download_Execute_Offer_Letter_Automations)
 <!-- disco-toc-end -->
 
