@@ -23,34 +23,11 @@ In this section, you will setup your SAP Business Technology Platform Sub Accoun
 
 We have a pre-recorded video for your help. We have used Booster configurations using Standard plan.
 
-![[../99_Videos/Booster_Configurations.mp4]]
+https://user-images.githubusercontent.com/59156252/170054484-56e6e988-6862-4391-94c3-2304a9675e71.mp4
 
-You can test the booster configuration's result by launching the SAP Process Automation application
-
-<figure class="video_container">
-	<video poster="../99_Images/Launch_SPA.png" width="320" height="240" controls>
-		<source src="../99_Videos/Launch.mp4" type="video/mp4">
-	</video>
-</figure>
-
-another attempt
-
-<video width="320" height="240" controls>
-	<source src="Launch.mp4"type="video/mp4">
-</video>
+the best way to test the upload is to launch SAP Process Automation from your Sub Account
 
 
-another approach
-
-<figure class="video_container">
-[![Embeded local video](./Launch.mp4)
-</figure>
-
-another try
-
-[![../99_Videos/Launch.mp4]()
+https://user-images.githubusercontent.com/59156252/170054762-135ca877-34f7-45c7-863e-515f6a52eab1.mp4
 
 
-another approach 
-
-[![Embeded local video](./Launch.mp4)
