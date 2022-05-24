@@ -38,3 +38,11 @@ another attempt
 <video width="320" height="240" controls>
 	<source src="Launch.mp4"type="video/mp4">
 </video>
+
+
+another approach
+
+[![Embeded local video](./Launch.mp4)
+another try
+
+[![../99_Videos/Launch.mp4]()
