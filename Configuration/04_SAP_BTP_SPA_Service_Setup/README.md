@@ -26,5 +26,11 @@ We have a pre-recorded video for your help. We have used Booster configurations 
 ![[../99_Videos/Booster_Configurations.mp4]]
 
 You can test the booster configuration's result by launching the SAP Process Automation application
-![[Launch.mp4]]
+[![Launch SAP Process Automation]({../99_Images/Launch_SPA.mp4})]({../99_Videos/Launch.mp4} "Launch SPA")
+<figure class="video_container">
+	<video controls="true" allowfullscreen="true" poster="../99_Images/Launch_SPA.png">
+		<source src="../99_Videos/Launch.mp4" type="video/mp4">
+	</video>
+</figure>
+
 <a href="../99_Videos/Launch.mp4" target="_blank"><img src=../99_Images/Launch_SPA.png width="240" height="180" border="10"/> </a>

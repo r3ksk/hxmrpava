@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33a51ca6a1ad94bd",
+        "id": "0b023b4a557b4367",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,9 +86,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "33a51ca6a1ad94bd",
+  "active": "0b023b4a557b4367",
   "lastOpenFiles": [
     "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
+    "{../99_Images/}.md",
     "Automation/02_Download_Execute_PreScreenAutomations/README.md",
     "Automation/01_Read_this_first/README.md",
     "README.md",
@@ -96,7 +97,6 @@
     "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
     "Configuration/03_SF_Configurations_PreScreen_Questions/README.md",
     "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
-    "Configuration/01_Read_this_first/README.md",
-    "Resources/01_Read_this_first/README.md"
+    "Configuration/01_Read_this_first/README.md"
   ]
 }
