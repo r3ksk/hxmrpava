@@ -15,9 +15,9 @@
   - [SAP BTP Configuration - Setup SAP Process Automation](Configuration/04_SAP_BTP_SPA_Service_Setup)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP BTP Configuration - Setup SAP Process Automation"} dc-card -->
   - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/05_SAP_SPA_Technical_Pre_Req)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
 - Automation Phase
-  - [Read this first](Automation/01_Read_this_first)
-  - [Download and Execute PreScreen Questions Automations](Automation/02_Download_Execute_PreScreenAutomations)
-  - [Download and Execute Offer Letter Automations](Automation/03_Download_Execute_Offer_Letter_Automations)
+  - [Read this first](Automation/01_Read_this_first)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
+  - [Download and Execute PreScreen Questions Automations](Automation/02_Download_Execute_PreScreenAutomations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
+  - [Download and Execute Offer Letter Automations](Automation/03_Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
 - Resources
   - [Read this first](Resources/01_Read_this_first)
   - [SAP Process Automation Learning Resources](Resources/02_learning)

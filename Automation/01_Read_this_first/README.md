@@ -1,4 +1,4 @@
-Since the SAP SuccessFactors and SAP BTP are configured with the needs of the auomtation, we will execute these bots.
+After successfully configuring  SAP SuccessFactors and SAP BTP accounts, we are now ready to execute these automation.
 
 In the next series of tasks, you will download the automations from the SAP Process Automation Store and execute them. 
 

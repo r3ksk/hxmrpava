@@ -26,5 +26,10 @@ If you are new to SAP BTP, get yourself familiar with SAP Pay-As-You Go consumpt
 This section is suitable for customers with existing SAP BTP Licenses, but  want to evaluate SAP Process Automation to try this use case. SAP Process Automation comes in different commercial model. You can go for a subscription or a consumption based licensing depending on your organization approach to SAP BTP Commercials.
 
 Explore SAP Process Automation Pricing from [SAP Discovery Center - Process Automation](https://discovery-center.cloud.sap/serviceCatalog/process-automation?region=all&tab=service_plan)
+#### SAP Free Tier Service Plans
 
+The free tier model for SAP BTP lets you try out services in global accounts without any additional cost using the consumption-based commercial model (Say CPEA or PAYG). You can learn more by visiting this documentation [page](https://help.sap.com/docs/BTP/65de2977205c403bbc107264b8eccf4b/524e1081d8dc4b0f9d055a6bec383ec3.html?locale=en-US)
 
+So if you are planning to evaluate SAP Process Automation and do not have the required licenses, you can get started with a SAP BTP PAYG account and subscribe to SAP Process Automation Free Tier entitlement. 
+
+For any additional informaiton, kindly get in touch with your SAP Account representative for more details on the commercials. 

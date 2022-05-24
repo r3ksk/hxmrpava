@@ -22,3 +22,9 @@ In this section, you will setup your SAP Business Technology Platform Sub Accoun
 
 ![[BoosterConfiguration.png]]
 
+We have a pre-recorded video for your help. We have used Booster configurations using Standard plan.
+
+![[Booster_Configurations.mp4]]
+
+You can test the booster configuration's result by launching the SAP Process Automation application
+![[Launch.mp4]]
