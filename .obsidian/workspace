@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
+            "file": "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
+                "file": "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
+    "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
     "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
     "Configuration/99_Images/Launch_SPA.png",
     "Configuration/99_Videos/Launch.mp4",
@@ -96,7 +97,6 @@
     "Automation/01_Read_this_first/README.md",
     "README.md",
     "Discover/04-BTP_Commericals/README.md",
-    "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
     "Configuration/03_SF_Configurations_PreScreen_Questions/README.md"
   ]
 }

@@ -42,7 +42,15 @@ another attempt
 
 another approach
 
+<figure class="video_container">
 [![Embeded local video](./Launch.mp4)
+</figure>
+
 another try
 
 [![../99_Videos/Launch.mp4]()
+
+
+another approach 
+
+[![Embeded local video](./Launch.mp4)
