@@ -9,11 +9,11 @@
   - [SAP Launchpad - the BTP Service pre-requisite](Discover/05-SPA_SAPLaunchPad)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Launchpad - the BTP Service pre-requisite"} dc-card -->
   - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/06-SPA_vs_SAP_IntelligentRPA)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation vs SAP Intelligent RPA in this mission"} dc-card -->
 - Configuration Phase
-  - [Read this first](Configuration/01_Read_this_first)
-  - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_Configurations_Offer_Letter_Automation)
-  - [SuccessFactors Configuration - Offer Letter Automation](Configuration/03_SF_Configurations_PreScreen_Questions)
-  - [SAP BTP Configuration - Setup SAP Process Automation](Configuration/04_SAP_BTP_SPA_Service_Setup)
-  - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/05_SAP_SPA_Technical_Pre_Req)
+  - [Read this first](Configuration/01_Read_this_first)<!-- dc-card: {"label": ["Configuration"], "cardName":"Read this first"} dc-card -->
+  - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_Configurations_Offer_Letter_Automation)<!-- dc-card: {"label": ["Configuration"], "cardName":"SuccessFactors Configuration - PreScreen Questions"} dc-card -->
+  - [SuccessFactors Configuration - Offer Letter Automation](Configuration/03_SF_Configurations_PreScreen_Questions)<!-- dc-card: {"label": ["Configuration"], "cardName":"SuccessFactors Configuration - Offer Letter Automation"} dc-card -->
+  - [SAP BTP Configuration - Setup SAP Process Automation](Configuration/04_SAP_BTP_SPA_Service_Setup)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP BTP Configuration - Setup SAP Process Automation"} dc-card -->
+  - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/05_SAP_SPA_Technical_Pre_Req)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
 - Automation Phase
   - [Read this first](Automation/01_Read_this_first)
   - [Download and Execute PreScreen Questions Automations](Automation/02_Download_Execute_PreScreenAutomations)

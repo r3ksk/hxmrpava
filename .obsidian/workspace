@@ -90,14 +90,14 @@
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
     "README.md",
-    "Discover/02-SPA_BASICS.md",
-    "Discover/04-BTP_Commericals/README.md",
-    "Discover/06-SPA_vs_SAP_IntelligentRPA/README.md",
-    "Discover/05-SPA_SAPLaunchPad/README.md",
-    "Discover/03-SPA_PreRequisites/README.md",
     "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
+    "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
+    "Configuration/03_SF_Configurations_PreScreen_Questions/README.md",
+    "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
     "Configuration/01_Read_this_first/README.md",
-    "Discover/02-SPA_BASICS/README.md",
-    "Discover/01-Welcome/README.md"
+    "Resources/01_Read_this_first/README.md",
+    "Discover/04-BTP_Commericals/README.md",
+    "Discover/02-SPA_BASICS.md",
+    "Discover/06-SPA_vs_SAP_IntelligentRPA/README.md"
   ]
 }

@@ -1,13 +1,18 @@
 SAP Process Automation consists of cloud and on-premise desktop components. The cloud components get activated when you configure SAP Process Automation BTP Service using Boosters
 
-#### Windows System
+The onPremise Desktop Agent component setup consists of 3 steps
 
-The Desktop agent requires a Microsoft Windows Systems. Either a VM or a laptop or desktop. Supported Operating Systems and browsers are detailed in [Technical Prerequisites and System Requirements | SAP Help Portal](https://help.sap.com/docs/IRPA/6b9c8e86a0be43539b670de962834562/0061438816a34fa78b77c99852318c70.html?locale=en-US)
+1. Install the technical pre-requisites
+2. Desktop Agent Installation
+3. Desktop Agent Registration
 
-#### SAP Intelligent RPA On-Premise Components
+#### 1. Install the technical pre-requisites
+SAP Process Automation Desktop Agent requires the following softwares to be installed in your Windows System
+1. Latest version of Microsoft Edge
+2. .NET Framework 4.7.2
 
-The technical pre-requisite and System requirements are explained in the SAP Intelligent RPA help documentation. These requirements are same for desktop agents to be used with SAP Process Automation.
-
-You can find applicable technical requirements and system pre-requirements in this documentation page [Technical Prerequisites and System Requirements | SAP Help Portal](https://help.sap.com/docs/IRPA/6b9c8e86a0be43539b670de962834562/0061438816a34fa78b77c99852318c70.html?locale=en-US) 
-###  Desktop Agent to Run Automations 
+####  2. Desktop Agent to Run Automations 
 In the windows system, install Desktop agent by following the instructions given in this documentation page [Install Desktop Agent to Run Automations | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/527c579a1cba4f12b45326c8e890d102/860145601cc64167ac5a17089ebd7cce.html?locale=en-US&state=DRAFT&q=virtual%20machine) 
+
+#### 3. Desktop Agent Registraion
+After successful installation of Desktop Agent, you can register the desktop agent with your SAP Process Automation Service by following this documentation [page](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/b78c288f1d9b48098209a7e2752dbfeb.html?locale=en-US) 
