@@ -7,8 +7,12 @@
         "id": "2ccacc341e05c185",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,8 @@
   },
   "active": "2ccacc341e05c185",
   "lastOpenFiles": [
-    "Discover/02-SPA_BASICS.md",
     "README.md",
+    "Discover/02-SPA_BASICS.md",
     "Discover/04-BTP_Commericals/README.md",
     "Discover/06-SPA_vs_SAP_IntelligentRPA/README.md",
     "Discover/05-SPA_SAPLaunchPad/README.md",
