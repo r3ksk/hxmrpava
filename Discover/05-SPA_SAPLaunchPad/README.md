@@ -4,4 +4,4 @@ SAP Launchpad is one of the SAP BTP service pre-requisite for you to get started
 
 Even though this mission is all about SAP Process Automation based Automation projects, using SAP Process Automation, you get now combine the powerful and innovative , Low Code / No Code tooling of SAP Process Automation to design new business process scenarios. 
 
-Additional information will be provided on how to setup SAP Launchpad service under Configurations section.
+Additional information will be provided on how to setup SAP Launchpad service under Configurations Phase later in this mission.

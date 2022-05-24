@@ -20,12 +20,12 @@ A simpler and faster way to enhance business efficiency and agility with confide
 ### Note
 #### Topics for your consideration
 
-Please review the next tasks in this Discover Phase. You have to review few important topics before you begin the actual technical configurations and executions
+You need to consider few important topics before you begin the actual technical configurations and executions. Please review the next tasks in this Discover Phase. 
 
 1. Are you new to SAP Process Automation?
 2. Please review the System and Technical pre-requisites for SAP Process Automation
-3. Do you know SAP Launchpad is the BTP Service pre-requisite to activate SAP Process Automation?
-4. Pick your choice of SAP BTP Commercial Model for this mission
+3. Pick your choice of SAP BTP Commercial Model for this mission
+4. Do you know SAP Launchpad is the BTP Service pre-requisite to activate SAP Process Automation?
 5. SAP Process Automation vs SAP Intelligent RPA in this mission
 
 Hope you have fun automating these scenarios using SAP Process Automation. Please share your feedback.

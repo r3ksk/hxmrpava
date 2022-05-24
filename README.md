@@ -3,10 +3,11 @@
 <!-- disco-toc-start -->
 - Discover Phase 
   - [Welcome and Target Group for this mission](Discover/01-Welcome)
+  - [SAP Process Automation Basics](Discover/02-SPA_BASICS)
+  - [SAP Process Automation - Technical and System Pre-requisites](03_SPA_PreRequisites)
   - [BTP Commerical Models](Discover/02-BTP_Commericals)
-  - [SAP Process Automation Basics](Discover/03-SPA_BASICS)
   - [SAP Launchpad - the BTP Service pre-requisite](Discover/04_SPA_SAPLaunchPad)
-  - [SAP Process Automation vs SAP Intelligent RPA](Discover/05_SPA_vs_SAP_IntelligentRPA)
+  - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/05_SPA_vs_SAP_IntelligentRPA)
 - Configuration Phase
   - [Read this first](Configuration/01_Read_this_first)
   - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_Configurations_Offer_Letter_Automation)

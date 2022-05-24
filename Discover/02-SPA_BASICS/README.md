@@ -1,9 +1,9 @@
 
-SAP Process Automation combines capabilities from the SAP Workflow Management and SAP Intelligent Robotic Process Automation services with an intuitive citizen developer experience.
+SAP Process Automation (SPA) combines capabilities from the SAP Workflow Management and SAP Intelligent Robotic Process Automation (SAP Intelligent RPA) services with an intuitive citizen developer experience.
 
-Enables organizations to manage the automation of workflows and processes using visual features that require no coding expertise.
+SAP Process Automation enables organizations to manage the automation of workflows and processes using visual features that require no coding expertise.
 
-Increases organizations’ capacity to drive process automation by empowering business experts to become citizen developers. Leveraging the power of no-code, citizen developers can build, adapt, improve, and innovate business processes with minimum assistance from scarce IT resources.
+SPA increases organizations’ capacity to drive process automation by empowering business experts to become citizen developers. Leveraging the power of no-code, citizen developers can build, adapt, improve, and innovate business processes with minimum assistance from scarce IT resources.
 
 If you are new to SAP Process Automation, kindly review the below materials to familiarize yourself with SAP Process Automation
 
