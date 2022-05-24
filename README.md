@@ -2,7 +2,7 @@
 
 <!-- disco-toc-start -->
 - Discover Phase 
-  - [Welcome and Target Group for this mission](Discover/01-Welcome)
+  - [Welcome and Target Group for this mission](Discover/01-Welcome)<!-- dc-card: {"label": ["Basics"], "cardName":"Welcome and Target Group for this mission"} dc-card -->
   - [SAP Process Automation Basics](Discover/02-SPA_BASICS)
   - [SAP Process Automation - Technical and System Pre-requisites](03_SPA_PreRequisites)
   - [BTP Commerical Models](Discover/02-BTP_Commericals)
