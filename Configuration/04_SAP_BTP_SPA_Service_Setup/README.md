@@ -28,8 +28,13 @@ We have a pre-recorded video for your help. We have used Booster configurations 
 You can test the booster configuration's result by launching the SAP Process Automation application
 
 <figure class="video_container">
-	<video controls="true" allowfullscreen="true" poster="../99_Images/Launch_SPA.png">
+	<video poster="../99_Images/Launch_SPA.png" width="320" height="240" controls>
 		<source src="../99_Videos/Launch.mp4" type="video/mp4">
 	</video>
 </figure>
 
+another attempt
+
+<video width="320" height="240" controls>
+	<source src="Launch.mp4"type="video/mp4">
+</video>
