@@ -18,22 +18,22 @@ Using Business Rules, Custom Fields, and MDF (Meta Data Framework) tables powere
 A simpler and faster way to enhance business efficiency and agility with confidence using SAP Process Automation.
   
 ### Note
+#### Topics for your consideration
+
 Please review the next tasks in this Discover Phase. You have to review few important topics before you begin the actual technical configurations and executions
 
-1. Pick your choice of SAP BTP Commercial Model for this mission
-2. Are you new to SAP Process Automation? 
+1. Are you new to SAP Process Automation?
+2. Please review the System and Technical pre-requisites for SAP Process Automation
 3. Do you know SAP Launchpad is the BTP Service pre-requisite to activate SAP Process Automation?
-4. SAP Process Automation vs SAP Intelligent RPA
-
-### Note2
-SAP Process Automation technical pre-requisite expects a Windows Virtual Machine or a Microsoft Windows based System. Non windows users (Mac Only or Linux only) users kindly review the task "4. Are you familiar with SAP Process Automation Technical Pre-requisites to run automations?" for additional details
+4. Pick your choice of SAP BTP Commercial Model for this mission
+5. SAP Process Automation vs SAP Intelligent RPA in this mission
 
 Hope you have fun automating these scenarios using SAP Process Automation. Please share your feedback.
 
 
 ### Abreviation used in this mission
-* ***BTP** - Business Technology Platform
-* ***SPA** - SAP Process Automation
-* ***PAYG** - Pay-As-You Go Commercial model of BTP
-* ***CPEA** - Cloud Platform Enterprise Agreement 
-* ***LC/NC** - Low Code (LC) / No Code (NC) toolset
+* **BTP** - Business Technology Platform
+* **SPA** - SAP Process Automation
+* **PAYG** - Pay-As-You Go Commercial model of BTP
+* **CPEA** - Cloud Platform Enterprise Agreement 
+* **LC/NC** - Low Code (LC) / No Code (NC) toolset
