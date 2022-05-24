@@ -2,12 +2,12 @@
 
 <!-- disco-toc-start -->
 - Discover Phase 
-  - [Welcome and Target Group for this mission](Discover/01-Welcome)<!-- dc-card: {"label": ["Basics"], "cardName":"Welcome and Target Group for this mission"} dc-card -->
-  - [SAP Process Automation Basics](Discover/02-SPA_BASICS)
-  - [SAP Process Automation - Technical and System Pre-requisites](03_SPA_PreRequisites)
-  - [BTP Commerical Models](Discover/02-BTP_Commericals)
-  - [SAP Launchpad - the BTP Service pre-requisite](Discover/04_SPA_SAPLaunchPad)
-  - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/05_SPA_vs_SAP_IntelligentRPA)
+  - [Welcome and Target Group for this mission](Discover/01-Welcome)<!-- dc-card: {"label": ["BASICS"], "cardName":"Welcome and Target Group for this mission"} dc-card -->
+  - [SAP Process Automation Basics](Discover/02-SPA_BASICS)<!-- dc-card: {"label": ["BASICS"], "cardName":"SAP Process Automation Basics"} dc-card -->
+  - [SAP Process Automation - Technical and System Pre-requisites](03_SPA_PreRequisites)<!-- dc-card: {"label": ["BASICS"], "cardName":"SAP Process Automation - Technical and System Pre-requisites"} dc-card -->
+  - [BTP Commerical Models](Discover/02-BTP_Commericals)<!-- dc-card: {"label": ["BASICS"], "cardName":"BTP Commercial Models"} dc-card -->
+  - [SAP Launchpad - the BTP Service pre-requisite](Discover/04_SPA_SAPLaunchPad)<!-- dc-card: {"label": ["BASICS"], "cardName":"SAP Launchpad - the BTP Service pre-requisite"} dc-card -->
+  - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/05_SPA_vs_SAP_IntelligentRPA)<!-- dc-card: {"label": ["BASICS"], "cardName":"SAP Process Automation vs SAP Intelligent RPA in this mission"} dc-card -->
 - Configuration Phase
   - [Read this first](Configuration/01_Read_this_first)
   - [SuccessFactors Configuration - PreScreen Questions](Configuration/02_SF_Configurations_Offer_Letter_Automation)
