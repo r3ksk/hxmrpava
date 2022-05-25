@@ -27,7 +27,8 @@ https://user-images.githubusercontent.com/59156252/170054484-56e6e988-6862-4391-
 
 the best way to test the upload is to launch SAP Process Automation from your Sub Account
 
-
 https://user-images.githubusercontent.com/59156252/170054762-135ca877-34f7-45c7-863e-515f6a52eab1.mp4
 
 
+When you are using PAYG (Free Tier) account you can follow the below instructions
+[Setting up SAP Process Automation with a Service Booster - YouTube](https://www.youtube.com/watch?v=pBTcweuVf5E)
