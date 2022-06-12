@@ -33,3 +33,6 @@ The free tier model for SAP BTP lets you try out services in global accounts 
 So if you are planning to evaluate SAP Process Automation and do not have the required licenses, you can get started with a SAP BTP PAYG account and subscribe to SAP Process Automation Free Tier entitlement. 
 
 For any additional informaiton, kindly get in touch with your SAP Account representative for more details on the commercials. 
+
+#### Note
+The topic of pricing of any BTP Service is outside the scope of this mission. You can get in touch with your account team to learn more on specific pricing related questions.

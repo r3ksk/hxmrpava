@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
+            "file": "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516
+    "width": 406
   },
   "right": {
     "id": "16ce5842bf9aa71f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
+                "file": "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
-    "Configuration/05_SAP_SPA_Technical_Pre_Req/README.md",
-    "Configuration/04_SAP_BTP_SPA_Service_Setup/README.md",
-    "Configuration/04_SAP_BTP_SPA_Service_Setup/Launch.mp4",
-    "{../99_Images/}.md",
-    "Automation/03_Download_Execute_Offer_Letter_Automations/README.md",
-    "README.md",
-    "Configuration/02_SF_Configurations_Offer_Letter_Automation/README.md",
-    "Configuration/99_Images/Launch_SPA.png",
-    "Configuration/99_Videos/Launch.mp4",
-    "Automation/02_Download_Execute_PreScreenAutomations/README.md"
+    "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
+    "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
+    "Automation/03-Execute_Offer_Letter_Automations/README.md",
+    "Automation/99_Images/OfferLetterProjectOverview.png",
+    "Automation/02-Execute_PreScreenAutomations/README.md",
+    "Automation/99_Images/TriggerNoTrigger.png",
+    "Automation/02-Attended_Scheduled_API/README.md",
+    "Discover/07-SPA_SAPLaunchPad/README.md",
+    "Discover/06-BTP_Commericals/README.md",
+    "Discover/05-SPA_Prerequisites/README.md"
   ]
 }
