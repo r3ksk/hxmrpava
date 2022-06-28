@@ -23,8 +23,8 @@
   - [Download and Execute PreScreen Questions Automations](Automation/03-Download_Execute_PreScreenAutomations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
   - [Download and Execute Offer Letter Automations](Automation/04-Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
 - Resources
-  - [Read this first](Resources/01_Read_this_first)
-  - [SAP Process Automation Learning Resources](Resources/02_learning)
+  - [Read this first](Resources/01-Read_this_first)
+  - [SAP Process Automation Learning Resources](Resources/02-SAP_Process_Automation_Learning_Resources)
 - SAP Intelligent RPA Phase
   - [Read this first](SAPIntelligentRPA/01_Read_this_first)
   - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02_SAPIntelligentRPA_Setup)
