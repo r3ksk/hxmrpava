@@ -89,6 +89,7 @@
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
     "README.md",
+    "Configuration/05-SF_Configurations_Offer_Letter_Automation.md",
     "Configuration/02-SAP_BTP_SPA_Service_Setup/README.md",
     "Configuration/04-Download_Automations_From_SPAStore/README.md",
     "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
@@ -96,7 +97,6 @@
     "Discover/05-SPA_Prerequisites/README.md",
     "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
     "Automation/03-Execute_Offer_Letter_Automations/README.md",
-    "Automation/99_Images/OfferLetterProjectOverview.png",
-    "Automation/02-Execute_PreScreenAutomations/README.md"
+    "Automation/99_Images/OfferLetterProjectOverview.png"
   ]
 }
