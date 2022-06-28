@@ -16,7 +16,7 @@ Name | Description | Type | Sample | is it Mandatory?
 ------------ | ------------ | ------------ | ------------| ------------
 apiURL| [API URL of SuccessFactors (see KBA 2215682)](https://userapps.support.sap.com/sap/support/knowledge/en/2215682) |String | [https://apisalesdemo4.successfactors.com:443/odata/v2](https://apisalesdemo4.successfactors.com/odata/v2)| Required
 sfuser| Bot user username and password |Credential | botuser/password| Required
-companyId| CompanyID of the SuccessFactors instance |String | SFTenantName| Required
+companyId| CompanyID of the SuccessFactors instance |String | SFPART012345| Required
 questionObject| Question object external code |String | cust_REC_Questions| Required
 questionObject| Question group object external code |String | cust_REC_QuestionGrouping| Required
 stepName| Bot step in the job requisition route map |String | Bot inbox step| Required
