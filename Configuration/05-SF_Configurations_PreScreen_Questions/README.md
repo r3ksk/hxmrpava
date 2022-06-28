@@ -23,8 +23,8 @@ stepName| Bot step in the job requisition route map |String | Bot inbox step| Re
 
 In the end, your job requisition must be assigned to the API User and will appear something like this as per the Business Rule
 
-![[../99_Images/JobRequisitionState.png]]
+![Job Requisition State!](../99_Images/JobRequisitionState.png)
 
 and the sample question groups object is attached to the job requisition.
 
-![[../99_Images/QuestionsGroup.png]]
+![Questions Group!](../99_Images/QuestionsGroup.png)
