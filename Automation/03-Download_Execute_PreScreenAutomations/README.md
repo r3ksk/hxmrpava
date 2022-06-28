@@ -43,7 +43,7 @@ Outlook Screen Grab
 
 ![!](../99_Images/OutlookEmail.png)
 
-Excel Based Log
+#### Excel Based Log
 
 ![!](../99_Images/ExcelBasedLog.png)
 

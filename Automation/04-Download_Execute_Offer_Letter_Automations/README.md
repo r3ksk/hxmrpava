@@ -41,7 +41,7 @@ Based on your trigger type, the automation will be triggered in either attended 
 
 At the end of each execution, bot will prepare a log file in excel format and email to the configured recepient at the time of deployment.
 
-Excel Based Log
+#### Excel Based Log
 
 ![!](../99_Images/ExcelLog.png)
 
