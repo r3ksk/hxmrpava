@@ -21,7 +21,7 @@ inputFilePathSFOfferLetter| Input File Path (Only required when you are triggeri
 
 From the project screen, click the Deploy button
 
-![!](OfferLetterProjectOverview.png)
+![!](../99_Images/OfferLetterProjectOverview.png)
 
 #### 2. Deploy Automation & Configure variables
 ![!](../99_Images/DeployOfferLetterAutomation.png)
