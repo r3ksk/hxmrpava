@@ -21,19 +21,19 @@ logEmail| Email that will receive bot execution logs |String | [sfadminEmail@bes
 #### 1. Start Deployment
 1. From the project screen, click the Deploy button
 
-![[OfferLetterProjectOverview.png]]
+![!](../99_Images/OfferLetterProjectOverview.png)
 #### 2. Deploy Automation & Configure variables
-![[../99_Images/DeployOfferLetterAutomation.png]]
+![!](../99_Images/DeployOfferLetterAutomation.png)
 #### 3. Configure Trigger Type
 
-![[../99_Images/ConfigureTriggerType.png]]
+![!](../99_Images/ConfigureTriggerType.png)
 
 #### 4. Define Automation Execution Schedule
 
-![[../99_Images/DefineAutomationExecutionSchedule.png]]
+![!](../99_Images/DefineAutomationExecutionSchedule.png)
 
 #### 5.  Confirm & Deploy
-![[../99_Images/AdvancedSettings.png]]
+![!](../99_Images/AdvancedSettings.png)
 
 Based on your trigger type, the automation will be triggered in either attended or scheduled mode.
 
@@ -41,9 +41,9 @@ At the end of each execution, bot will prepare a log file in excel format and em
 
 Outlook Screen Grab
 
-![[../99_Images/OutlookEmail.png]]
+![!](../99_Images/OutlookEmail.png)
 
 Excel Based Log
 
-![[../99_Images/ExcelBasedLog.png]]
+![!](../99_Images/ExcelBasedLog.png)
 

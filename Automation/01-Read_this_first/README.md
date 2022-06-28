@@ -13,6 +13,6 @@ For more information, kindly refer to our documentation [Page](https://help.sap.
 
 At the time of deployment, you will key in relevant values for the environment variables
 
-![[99_Images/EnvironmentVariables.png]]
+![!](99_Images/EnvironmentVariables.png)
 
 Similar to SuccessFactors Configurations, each project contains SAP Process Automation specific configuration instructions, it will be handy when deploying these automations.

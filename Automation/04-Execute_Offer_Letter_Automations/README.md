@@ -21,21 +21,21 @@ inputFilePathSFOfferLetter| Input File Path (Only required when you are triggeri
 
 From the project screen, click the Deploy button
 
-![[OfferLetterProjectOverview.png]]
+![!](OfferLetterProjectOverview.png)
 
 #### 2. Deploy Automation & Configure variables
-![[../99_Images/DeployOfferLetterAutomation.png]]
+![!](../99_Images/DeployOfferLetterAutomation.png)
 
 
 #### 3. Configure Trigger Type
-![[../99_Images/OfferLetterTriggerTab.png]]
+![!](../99_Images/OfferLetterTriggerTab.png)
 
 #### 4. Define Automation Execution Schedule
 
-![[../99_Images/OfferLetterConfigurationTab.png]]
+![!](../99_Images/OfferLetterConfigurationTab.png)
 
 #### 5.  Confirm & Deploy
-![[OfferLetterDeployAdvancedTab.png]]
+![!](OfferLetterDeployAdvancedTab.png)
 
 Based on your trigger type, the automation will be triggered in either attended or scheduled mode.
 
@@ -43,5 +43,5 @@ At the end of each execution, bot will prepare a log file in excel format and em
 
 Excel Based Log
 
-![[../99_Images/ExcelLog.png]]
+![!](../99_Images/ExcelLog.png)
 
