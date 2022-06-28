@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/01_Read_this_first/README.md",
+            "file": "Resources/02-SAP_Process_Automation_Learning_Resources/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/01_Read_this_first/README.md",
+                "file": "Resources/02-SAP_Process_Automation_Learning_Resources/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
+    "Resources/02-SAP_Process_Automation_Learning_Resources/README.md",
     "Resources/01_Read_this_first/README.md",
     "Automation/03-Download_Execute_PreScreenAutomations/README.md",
     "Automation/04-Download_Execute_Offer_Letter_Automations/README.md",
@@ -96,7 +97,6 @@
     "Automation/02-Attended_Scheduled_API/README.md",
     "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
     "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
-    "Configuration/05-SF_Configurations_Offer_Letter_Automation.md",
-    "Configuration/02-SAP_BTP_SPA_Service_Setup/README.md"
+    "Configuration/05-SF_Configurations_Offer_Letter_Automation.md"
   ]
 }
