@@ -17,7 +17,7 @@ In this section, you will setup your SAP Business Technology Platform Sub Accoun
 > We offer instructions based on your liences type. Depending on your license type, You can select the corresponding booster configurations instructions below. 
 > 
 1. Customers using SAP Process Automation via the **Free Tier** - [Subscribe to SAP Process Automation (Using SAP BTP Free Tier) | Tutorials for SAP Developers](https://developers.sap.com/tutorials/spa-subscribe-booster.html) * Please only execute until Step 2 in this tutorial
-2.Customers using SAP Process Automation via the **Standard Plan** - [Subscribe to SAP Process Automation (Using Standard Plan) | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/089a5d6f47b344e8b370460098980b9b.html?locale=en-US) 
+2. Customers using SAP Process Automation via the **Standard Plan** - [Subscribe to SAP Process Automation (Using Standard Plan) | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/089a5d6f47b344e8b370460098980b9b.html?locale=en-US) 
 
 ![Process Autmation Booster Screen!](../99_Images/BoosterConfiguration.png)
 
