@@ -18,10 +18,10 @@
   - [SuccessFactors Configuration - PreScreen Questions](Configuration/05-SF_Configurations_PreScreen_Questions)<!-- dc-card: {"label": ["Configuration"], "cardName":"SuccessFactors Configuration - PreScreen Questions"} dc-card -->
   - [SuccessFactors Configuration - Offer Letter Automation](Configuration/06-SF_Configurations_Offer_Letter_Automation)<!-- dc-card: {"label": ["Configuration"], "cardName":"SuccessFactors Configuration - Offer Letter Automation"} dc-card -->
 - Automation Phase
-  - [Read this first](Automation/01_Read_this_first)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
+  - [Read this first](Automation/01-Read_this_first)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
   - [Know about Automation Triggers](Automation/02-Attended_Scheduled_API)<!-- dc-card: {"label": ["Automation"], "cardName":"Know about Automation Triggers"} dc-card -->
-  - [Download and Execute PreScreen Questions Automations](Automation/02_Download_Execute_PreScreenAutomations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
-  - [Download and Execute Offer Letter Automations](Automation/03_Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
+  - [Download and Execute PreScreen Questions Automations](Automation/03-Download_Execute_PreScreenAutomations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
+  - [Download and Execute Offer Letter Automations](Automation/04-Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["Automation"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
 - Resources
   - [Read this first](Resources/01_Read_this_first)
   - [SAP Process Automation Learning Resources](Resources/02_learning)
