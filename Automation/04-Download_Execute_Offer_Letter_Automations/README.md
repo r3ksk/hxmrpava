@@ -35,7 +35,7 @@ From the project screen, click the Deploy button
 ![!](../99_Images/OfferLetterConfigurationTab.png)
 
 #### 5.  Confirm & Deploy
-![!](OfferLetterDeployAdvancedTab.png)
+![!](../99_Images/OfferLetterDeployAdvancedTab.png)
 
 Based on your trigger type, the automation will be triggered in either attended or scheduled mode.
 
