@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
+    "README.md",
     "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
     "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
     "Automation/03-Execute_Offer_Letter_Automations/README.md",
@@ -96,7 +97,6 @@
     "Automation/99_Images/TriggerNoTrigger.png",
     "Automation/02-Attended_Scheduled_API/README.md",
     "Discover/07-SPA_SAPLaunchPad/README.md",
-    "Discover/06-BTP_Commericals/README.md",
-    "Discover/05-SPA_Prerequisites/README.md"
+    "Discover/06-BTP_Commericals/README.md"
   ]
 }
