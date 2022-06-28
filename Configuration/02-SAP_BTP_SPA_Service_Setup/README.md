@@ -19,7 +19,9 @@ In this section, you will setup your SAP Business Technology Platform Sub Accoun
 1. Customers using SAP Process Automation via the **Free Tier** - [Subscribe to SAP Process Automation (Using SAP BTP Free Tier) | Tutorials for SAP Developers](https://developers.sap.com/tutorials/spa-subscribe-booster.html) * Please only execute until Step 2 in this tutorial
 2.Customers using SAP Process Automation via the **Standard Plan** - [Subscribe to SAP Process Automation (Using Standard Plan) | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/a331c4ef0a9d48a89c779fd449c022e7/089a5d6f47b344e8b370460098980b9b.html?locale=en-US) 
 
-![[BoosterConfiguration.png]]
+![Process Autmation Booster Screen!](../99_Images/BoosterConfiguration.png)
 
 When you are using PAYG (Free Tier) account you can follow the below instructions
 [Setting up SAP Process Automation with a Service Booster - YouTube](https://www.youtube.com/watch?v=pBTcweuVf5E)
+
+>If you are an advanced user and you would like to setup these services and roles yourself, you can also do so. We recommend you to use Booster as it saves time and effort and it is pre-built.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discover/07-SPA_SAPLaunchPad/README.md",
+            "file": "Configuration/02-SAP_BTP_SPA_Service_Setup/README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discover/07-SPA_SAPLaunchPad/README.md",
+                "file": "Configuration/02-SAP_BTP_SPA_Service_Setup/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
-    "Discover/07-SPA_SAPLaunchPad/README.md",
+    "Configuration/02-SAP_BTP_SPA_Service_Setup/README.md",
+    "Configuration/04-Download_Automations_From_SPAStore/README.md",
+    "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
     "README.md",
+    "Discover/07-SPA_SAPLaunchPad/README.md",
     "Discover/05-SPA_Prerequisites/README.md",
     "Configuration/06-SF_Configurations_Offer_Letter_Automation/README.md",
-    "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
     "Automation/03-Execute_Offer_Letter_Automations/README.md",
     "Automation/99_Images/OfferLetterProjectOverview.png",
-    "Automation/02-Execute_PreScreenAutomations/README.md",
-    "Automation/99_Images/TriggerNoTrigger.png",
-    "Automation/02-Attended_Scheduled_API/README.md"
+    "Automation/02-Execute_PreScreenAutomations/README.md"
   ]
 }

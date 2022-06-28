@@ -11,7 +11,7 @@
   - [SAP Launchpad - the BTP Service pre-requisite](Discover/07-SPA_SAPLaunchPad)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Launchpad - the BTP Service pre-requisite"} dc-card -->
   - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/08-SPA_vs_SAP_IntelligentRPA)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation vs SAP Intelligent RPA in this mission"} dc-card -->
 - Configuration Phase
-  - [Read this first](Configuration/01_Read_this_first)<!-- dc-card: {"label": ["Configuration"], "cardName":"Read this first"} dc-card -->
+  - [Read this first](Configuration/01-Read_this_first)<!-- dc-card: {"label": ["Configuration"], "cardName":"Read this first"} dc-card -->
   - [SAP BTP Configuration - Setup SAP Process Automation](Configuration/02-SAP_BTP_SPA_Service_Setup)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP BTP Configuration - Setup SAP Process Automation"} dc-card -->
   - [SAP Process Automation - Setup and configure Desktop Agent](Configuration/03-SAP_SPA_Technical_Pre_Req)<!-- dc-card: {"label": ["Configuration"], "cardName":"SAP Process Automation - Setup and configure Desktop Agent"} dc-card -->
   - [Download Automations from SPA Store](Configuration/04-Download_Automations_From_SPAStore)<!-- dc-card: {"label": ["Configuration"], "cardName":"Download Automations from SPA Store"} dc-card -->
