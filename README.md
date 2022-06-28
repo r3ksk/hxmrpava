@@ -26,9 +26,9 @@
   - [Read this first](Resources/01-Read_this_first)
   - [SAP Process Automation Learning Resources](Resources/02-SAP_Process_Automation_Learning_Resources)
 - SAP Intelligent RPA Phase
-  - [Read this first](SAPIntelligentRPA/01_Read_this_first)
-  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02_SAPIntelligentRPA_Setup)
-  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03_Download_Execute_PreScreenAutomations)
-  - [Download and Execute Offer Letter](SAPIntelligentRPA/04_Download_Execute_Offer_Letter_Automations)
+  - [Read this first](SAPIntelligentRPA/01-Read_this_first)
+  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02-SAPIntelligentRPA_Setup)
+  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03-Download_Execute_PreScreenAutomations)
+  - [Download and Execute Offer Letter](SAPIntelligentRPA/04-Download_Execute_Offer_Letter_Automations)
 <!-- disco-toc-end -->
 
