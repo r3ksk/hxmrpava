@@ -25,3 +25,9 @@ When you are using PAYG (Free Tier) account you can follow the below instruction
 [Setting up SAP Process Automation with a Service Booster - YouTube](https://www.youtube.com/watch?v=pBTcweuVf5E)
 
 >If you are an advanced user and you would like to setup these services and roles yourself, you can also do so. We recommend you to use Booster as it saves time and effort and it is pre-built.
+
+
+
+
+https://user-images.githubusercontent.com/59156252/176376192-65d1cc56-3856-4498-85ca-614d208cbf2f.mp4
+
