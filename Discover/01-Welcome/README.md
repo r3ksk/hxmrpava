@@ -11,7 +11,7 @@ This mission is designed for
 </ul>
 
 ## Introduction
-The SAP SuccessFactors Recruiting solution gives talent acquisition teams the tools, insights, and time they need to deliver winning experiences for each candidate with every interaction. A certain process like prescreening questions and offer letter distribution is manual and needs to be set up individually on each job requisition or job application. This adds more time to recruiting or attracting top talent to the customer’s organization. Every customer leverages the above two steps and can define what are the reproducible steps on how to default them.
+The SAP SuccessFactors Recruiting solution gives talent acquisition teams the tools, insights, and time they need to deliver winning experiences for each candidate with every interaction. Processes like prescreening questions and offer letter distribution are manual and needs to be set up individually on each job requisition or job application. This adds time to recruiting or attracting top talent to the customer’s organization. Every customer leverages the above two steps and can define what are the reproducible steps on how to default them.
 
 Using Business Rules, Custom Fields, and MDF (Meta Data Framework) tables powered by SAP Process Automation (SPA), these tasks can be automated in near real-time, which increases the job satisfaction of the talent acquisition teams and helps the customer organizations to advertise jobs and provide candidates offer letters quicker.
 
@@ -20,7 +20,7 @@ A simpler and faster way to enhance business efficiency and agility with confide
 ### Note
 #### Topics for your consideration
 
-You need to consider few important topics before you begin the actual technical configurations and executions. Please review the next tasks in this Discover Phase. 
+You need to consider several important topics before you begin the actual technical configurations and executions. Please review the next tasks in this Discover Phase. 
 
 1. Read this: if you are new to SAP BTP
 2. Read this: if you are new to SAP BTP Extension Suite
@@ -30,7 +30,7 @@ You need to consider few important topics before you begin the actual technical 
 6. Do you know SAP Launchpad is the BTP Service pre-requisite to activate SAP Process Automation?
 7. SAP Process Automation vs SAP Intelligent RPA in this mission
 
-Hope you have fun automating these scenarios using SAP Process Automation. Please share your feedback.
+Hope you have fun automating these scenarios using SAP Process Automation. We welcome any feedback you have, too.
 
 
 ### Abreviation used in this mission
