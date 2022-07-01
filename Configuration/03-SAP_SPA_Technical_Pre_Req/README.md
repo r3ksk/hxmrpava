@@ -1,12 +1,12 @@
 SAP Process Automation consists of cloud and on-premise desktop components. The cloud components get activated when you configure SAP Process Automation BTP Service using Boosters
 
-The onPremise Desktop Agent component setup consists of 3 steps
+The on-premise Desktop Agent component setup consists of 3 steps
 
 1. Install the technical pre-requisites
 2. Desktop Agent Installation
 3. Desktop Agent Registration
 
-#### 1. Install the technical pre-requisites
+#### 1. Install the technical prerequisites
 SAP Process Automation Desktop Agent requires the following softwares to be installed in your Windows System
 1. Latest version of Microsoft Edge
 2. .NET Framework 4.7.2
