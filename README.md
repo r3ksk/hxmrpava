@@ -26,9 +26,9 @@
   - [Read this first](Resources/01-Read_this_first) <!-- dc-card: {"label": ["Resources"], "cardName":"Read this first"} dc-card -->
   - [SAP Process Automation Learning Resources](Resources/02-SAP_Process_Automation_Learning_Resources)<!-- dc-card: {"label": ["Resources"], "cardName":"SAP Process Automation Learning Resources"} dc-card -->
 - SAP Intelligent RPA Phase
-  - [Read this first](SAPIntelligentRPA/01-Read_this_first)<!-- dc-card: {"label": ["SAPIntelligentRPA"], "cardName":"Read this first"} dc-card -->
-  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02-SAPIntelligentRPA_Setup)<!-- dc-card: {"label": ["SAPIntelligentRPA"], "cardName":"SAP Intelligent RPA Configurations"} dc-card -->
-  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03-Download_Execute_PreScreenAutomations)<!-- dc-card: {"label": ["SAPIntelligentRPA"], "cardName":"Download and Execute PreScreen Questions"} dc-card -->
-  - [Download and Execute Offer Letter](SAPIntelligentRPA/04-Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["SAPIntelligentRPA"], "cardName":"Download and Execute Offer Letter"} dc-card -->
+  - [Read this first](SAPIntelligentRPA/01-Read_this_first)
+  - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02-SAPIntelligentRPA_Setup)
+  - [Download and Execute PreScreen Questions](SAPIntelligentRPA/03-Download_Execute_PreScreenAutomations)
+  - [Download and Execute Offer Letter](SAPIntelligentRPA/04-Download_Execute_Offer_Letter_Automations)
 <!-- disco-toc-end -->
 
