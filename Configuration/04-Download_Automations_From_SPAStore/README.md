@@ -8,6 +8,11 @@ In the next series of tasks, you will download the automations from the SAP Proc
 
 Explore the store as described in the documentation page [Explore the Store | SAP Help Portal](https://help.sap.com/docs/PROCESS_AUTOMATION/527c579a1cba4f12b45326c8e890d102/b38897b821874ebe98fb15fc7d4400e9.html?locale=en-US))
 
+We will be using couple of Automations from the SAP Process Automation Store
+
+1. Screening Questions(API) -SuccessFactors
+2. Offer Letter Distribution - SuccessFactors
+
 Instructions to download Automations from SAP Process Automation Store
 
 1. From your Sub account, go to Instances and Subscriptions menu (1),

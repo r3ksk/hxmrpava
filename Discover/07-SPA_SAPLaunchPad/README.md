@@ -1,4 +1,4 @@
-The SAP Launchpad Service provides you with a central entry point for a number of key SAP Process Automation tasks. These tasks include starting a process running, accessing your inbox for process approvals, and monitoring your business via visibility scenarios. 
+The SAP Launchpad Service provides you with a central entry point for a number of key SAP Process Automation tasks. These tasks include starting a process, accessing your inbox for process approvals, and monitoring your business via visibility scenarios. 
 
 SAP Launchpad is one of the SAP BTP service pre-requisite for you to get started with SAP Process Automation Entitlement configuration.
 
