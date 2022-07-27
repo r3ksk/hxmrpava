@@ -13,17 +13,18 @@ sfuser| Bot user username and password |Credential | botuser/password| Required
 companyId| CompanyID of the SuccessFactors instance |String | SFPART012345| Required
 completedComment| Comment to be added when moving the job requisition tot he next step |String | SPA Automation added prescreen questions| Required
 questionObject| Question object external code |String | cust_REC_Questions| Required
-questionObject| Question group object external code |String | cust_REC_QuestionGrouping| Required
+groupObject | Question group object external code |String | cust_REC_QuestionGrouping| Required
 stepName| Bot step in the job requisition route map |String | Bot inbox step| Required
 outputFolderPath| Folder Path to save bot execution logfile |String | C:\Temp| Optional
 logEmail| Email that will receive bot execution logs |String | [sfadminEmail@bestRunSAP.com](mailto:sfadminEmail@bestRunSAP.com)| Optional
 
 #### 1. Start Deployment
 1. From the project screen, click the Deploy button
+![!](../99_Images/prescreenAutomationOverview.png)
 
-![!](../99_Images/OfferLetterProjectOverview.png)
 #### 2. Deploy Automation & Configure variables
-![!](../99_Images/DeployOfferLetterAutomation.png)
+!![!](../99_Images/DeployPreScreenAutomation.png)
+
 #### 3. Configure Trigger Type
 
 ![!](../99_Images/ConfigureTriggerType.png)

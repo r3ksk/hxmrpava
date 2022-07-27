@@ -28,7 +28,7 @@ Instructions to download Automations from SAP Process Automation Store
 5. You can also review the description by clicking **More Information**  and details about the automations and click the Add button with in the Automation details page.
 ![PreScreen Automation Details!](../99_Images/AddPreScreenAutomation2.png)
 6. After few seconds downloaded project is accessible from the lobby, Like other Store content, each project consists of relevant screen captures, automations, templated excel files (if applicable) and relevant configuration documentations and other general documentations. 
-7. From within the project we will explore the files it contains, locate the SuccessFactors Configuration file (1) and SAP Process Automation Configuration files and download it from the detail page to your local computer.
+7. From within the project we will explore the files it contains, locate the  SAP Process Automation Configuration files (1) and SuccessFactors Configuration file (2) and download it from the detail page to your local computer.
 
 ![Review Automation Content!](../99_Images/ReviewFileContents.png)
 

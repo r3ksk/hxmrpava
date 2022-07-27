@@ -18,7 +18,7 @@ apiURL| [API URL of SuccessFactors (see KBA 2215682)](https://userapps.support.s
 sfuser| Bot user username and password |Credential | botuser/password| Required
 companyId| CompanyID of the SuccessFactors instance |String | SFPART012345| Required
 questionObject| Question object external code |String | cust_REC_Questions| Required
-questionObject| Question group object external code |String | cust_REC_QuestionGrouping| Required
+groupObject | Question group object external code |String | cust_REC_QuestionGrouping| Required
 stepName| Bot step in the job requisition route map |String | Bot inbox step| Required
 
 In the end, your job requisition must be assigned to the API User and will appear something like this as per the Business Rule

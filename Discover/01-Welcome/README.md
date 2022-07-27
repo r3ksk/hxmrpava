@@ -27,8 +27,7 @@ You need to consider several important topics before you begin the actual techni
 3. [Read this: if you are new to SAP Process Automation](../04-SPA_BASICS/README.md)
 4. [Please review the System and Technical pre-requisites for SAP Process Automation](../05-SPA_Prerequisites/README.md)
 5. [Pick your choice of SAP BTP Commercial Model for this mission](../06-BTP_Commericals/README.md)
-6. [Do you know SAP Launchpad is the BTP Service pre-requisite to activate SAP Process Automation?](../07-SPA_SAPLaunchPad/README.md)
-7. [SAP Process Automation vs SAP Intelligent RPA in this mission](../08-SPA_vs_SAP_IntelligentRPA/README.md)
+6. [SAP Process Automation vs SAP Intelligent RPA in this mission](../08-SPA_vs_SAP_IntelligentRPA/README.md)
 
 Hope you have fun automating these scenarios using SAP Process Automation. We welcome any feedback you have, too.
 

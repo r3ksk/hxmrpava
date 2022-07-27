@@ -8,7 +8,6 @@
   - [SAP Process Automation Basics](Discover/04-SPA_BASICS)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation Basics"} dc-card -->
   - [SAP Process Automation - About: Technical and System Prerequisites](Discover/05-SPA_Prerequisites)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation - Technical and System Pre-requisites"} dc-card -->
   - [SAP BTP Commerical Models](Discover/06-BTP_Commericals)<!-- dc-card: {"label": ["Basics"], "cardName":"BTP Commercial Models"} dc-card -->
-  - [SAP Launchpad - the BTP Service Prerequisite](Discover/07-SPA_SAPLaunchPad)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Launchpad - the BTP Service prerequisite"} dc-card -->
   - [SAP Process Automation vs SAP Intelligent RPA in this mission](Discover/08-SPA_vs_SAP_IntelligentRPA)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation vs SAP Intelligent RPA in this mission"} dc-card -->
 - Configuration Phase
   - [Read this first](Configuration/01-Read_this_first)<!-- dc-card: {"label": ["Configuration"], "cardName":"Read this first"} dc-card -->
