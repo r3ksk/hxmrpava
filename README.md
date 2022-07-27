@@ -23,6 +23,7 @@
   - [Download and Execute Offer Letter Automations](Automation/04-Download_Execute_Offer_Letter_Automations)<!-- dc-card: {"label": ["Automation"], "cardName":"Download and Execute Offer Letter Automations"} dc-card -->
 - Resources
   - [Read this first](Resources/01-Read_this_first) <!-- dc-card: {"label": ["Resources"], "cardName":"Read this first"} dc-card -->
+  - [Online Session Recording](Resources/03-Online_Session_Recording) <!-- dc-card: {"label": ["Resources"], "cardName":"Online Session Recording"} dc-card -->
   - [SAP Process Automation Learning Resources](Resources/02-SAP_Process_Automation_Learning_Resources)<!-- dc-card: {"label": ["Resources"], "cardName":"SAP Process Automation Learning Resources"} dc-card -->
 - SAP Intelligent RPA Phase
   - [Read this first](SAPIntelligentRPA/01-Read_this_first)<!-- dc-card: {"label": ["RPA"], "cardName":"Read this first"} dc-card -->
