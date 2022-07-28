@@ -1,0 +1,1 @@
+- In the Success Factors Instructions for each automation, product documentation refers to a blog to create API User. In addition to that, you can revie this [video](https://www.youtube.com/watch?v=my33S-gr1UA) in case you face issues in creating the API user. 

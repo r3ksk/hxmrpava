@@ -25,6 +25,7 @@
   - [Read this first](Resources/01-Read_this_first) <!-- dc-card: {"label": ["Resources"], "cardName":"Read this first"} dc-card -->
   - [Online Session Recording](Resources/03-Online_Session_Recording) <!-- dc-card: {"label": ["Resources"], "cardName":"Online Session Recording"} dc-card -->
   - [SAP Process Automation Learning Resources](Resources/02-SAP_Process_Automation_Learning_Resources)<!-- dc-card: {"label": ["Resources"], "cardName":"SAP Process Automation Learning Resources"} dc-card -->
+  - [Troubleshooting](Resources/04-Troubleshooting)<!-- dc-card: {"label": ["Resources"], "cardName":"Troubleshooting"} dc-card -->
 - SAP Intelligent RPA Phase
   - [Read this first](SAPIntelligentRPA/01-Read_this_first)<!-- dc-card: {"label": ["RPA"], "cardName":"Read this first"} dc-card -->
   - [SAP Intelligent RPA Configurations](SAPIntelligentRPA/02-SAPIntelligentRPA_Setup)<!-- dc-card: {"label": ["RPA"], "cardName":"SAP Intelligent RPA Configurations"} dc-card -->

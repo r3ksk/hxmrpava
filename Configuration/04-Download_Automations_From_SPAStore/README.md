@@ -18,6 +18,8 @@ Instructions to download Automations from SAP Process Automation Store
 1. From your Sub account, go to Instances and Subscriptions menu (1),
 2. Launch SAP Process Automation (2) by clicking the name or the icon beside it
 ![Launch SAP Process Automation!](../99_Images/LaunchSPA.png)
+2a. If it is first time you are loading, you will get a warning message like this below, Kindly review and act on the pop up message. 
+![Privacy Warning Popup!](../99_Images/PrivacyWarning.png)
 
 3. From the SAP Process Automation Lobby, Navigate to SAP Process Automation Store
 ![Navigate to Store !](../99_Images/Navigate2Store.png)
