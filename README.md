@@ -4,7 +4,7 @@
 - Discover Phase 
   - [Welcome and Target Group for this mission](Discover/01-Welcome)<!-- dc-card: {"label": ["Basics"], "cardName":"Welcome and Target Group for this mission"} dc-card -->
   - [Learn the basics of SAP BTP](Discover/02-SAP_BTP_BASICS)<!-- dc-card: {"label": ["Basics"], "cardName":"Learn the basics of SAP BTP"} dc-card -->
-  - [Explore SAP BTP Extension Suite](Discover/03-SAP_BTP_Extensions)<!-- dc-card: {"label": ["Basics"], "cardName":"Welcome and Target Group for this mission"} dc-card -->
+  - [Explore SAP BTP Extension Suite](Discover/03-SAP_BTP_Extensions)<!-- dc-card: {"label": ["Basics"], "cardName":"Explore SAP BTP Extension Suite"} dc-card -->
   - [SAP Process Automation Basics](Discover/04-SPA_BASICS)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation Basics"} dc-card -->
   - [SAP Process Automation - About: Technical and System Prerequisites](Discover/05-SPA_Prerequisites)<!-- dc-card: {"label": ["Basics"], "cardName":"SAP Process Automation - Technical and System Pre-requisites"} dc-card -->
   - [SAP BTP Commerical Models](Discover/06-BTP_Commericals)<!-- dc-card: {"label": ["Basics"], "cardName":"BTP Commercial Models"} dc-card -->

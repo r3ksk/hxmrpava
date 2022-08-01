@@ -88,15 +88,15 @@
   },
   "active": "0b023b4a557b4367",
   "lastOpenFiles": [
+    "Resources/03-Online_Session_Recording/README.md",
+    "Automation/03-Download_Execute_PreScreenAutomations/README.md",
+    "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
+    "Configuration/01-Read_this_first/README.md",
+    "Discover/04-SPA_BASICS/README.md",
+    "Discover/02-SAP_BTP_BASICS/README.md",
+    "README.md",
     "Resources/04-Troubleshooting/README.md",
     "Configuration/04-Download_Automations_From_SPAStore/README.md",
-    "Automation/03-Download_Execute_PreScreenAutomations/README.md",
-    "README.md",
-    "Resources/03-Online_Session_Recording/README.md",
-    "SAPIntelligentRPA/04-Download_Execute_Offer_Letter_Automations/README.md",
-    "SAPIntelligentRPA/03-Download_Execute_PreScreenAutomations/README.md",
-    "Automation/99_Images/DeployPreScreenAutomation.png",
-    "Configuration/05-SF_Configurations_PreScreen_Questions/README.md",
-    "Automation/04-Download_Execute_Offer_Letter_Automations/README.md"
+    "SAPIntelligentRPA/04-Download_Execute_Offer_Letter_Automations/README.md"
   ]
 }
